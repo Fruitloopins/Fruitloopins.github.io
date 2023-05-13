@@ -14,24 +14,9 @@ The below terms will be used throughout the terms of service and privacy policy 
 - We reserve the right to update these terms of service at any time without notice.
 
 # Privacy Policy
-## Commands
-We may retain any commands sent to Plunkten indefinitely for troubleshooting and maintenance reasons. Stored commands are a string that include the Discord user that sent the command, the Discord server the command was used in, the command used, and any attached parameters.
-
-These commands are printed to the bot's terminal upon being sent and may be stored if necessary. If it is not stored manually by us the command will be lost if the system that hosts the bot is shut down.
-
-## Logging
-Plunkten utilises the [logging](https://docs.disnake.dev/en/stable/logging.html#logging-setup) feature in the Disnake Python library.
-
-All interactions that this feature logs are appended to and stored in a file on the system used to host the bot, this feature is active in the occurrence that the data stored there such as guild, user, or other interactions are required.
-
-Possible usage examples of this data would include:
-- Troubleshooting errors that occur to maintain the bot's functioning.
-- Moderating usage of the bot, such as in the occurrence of misuse of the bot.
-
-## Security
-Stored data is secured through the use of password-protected, encrypted connections.
+Plunkten is secured through the use of password-protected, encrypted connections.
 
 Access to the system Plunkten operates on is restricted to highly trusted members of our team who require access for their role.
 
-## Request Data Deletion
-If you would like to request for your data to be deleted from our systems, email [contact@xbyz.net](mailto:contact@xbyz.net). You will be asked to provide proof of ownership over the account you want to delete the data of.
+## Contact
+If you would like to contact us, email [contact@xbyz.net](mailto:contact@xbyz.net) or join our official Discord server, the link is in the bot's profile.
