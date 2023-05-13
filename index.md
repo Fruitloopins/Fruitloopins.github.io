@@ -32,3 +32,6 @@ Possible usage examples of this data would include:
 Stored data is secured through the use of password-protected, encrypted connections.
 
 Access to the system Plunkten operates on is restricted to highly trusted members of our team who require access for their role.
+
+## Request Data Deletion
+If you would like to request for your data to be deleted from our systems, email [contact@xbyz.net](mailto:contact@xbyz.net). You will be asked to provide proof of ownership over the account you want to delete the data of.
