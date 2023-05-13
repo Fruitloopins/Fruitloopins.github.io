@@ -1,7 +1,3 @@
-layout: page
-title: "Plunkten Terms of Service and Privacy Policy"
-permalink: /tos/
-
 Last Updated: 2023-05-13
 Official terms of service for the Plunkten Discord bot.
 
