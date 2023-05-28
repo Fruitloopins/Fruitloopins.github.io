@@ -1,5 +1,6 @@
 ---
 permalink: /plunkten/tos/
+layout: single
 ---
 
 Last Updated: 2023-05-13
