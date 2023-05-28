@@ -7,7 +7,7 @@ subtitle: "When the fruit is loopin"
 remote-theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "neon"
 
-include: ["_pages"]
+include: ["_pages", "_posts"]
 
 author:
   name: "Fruitloopins"
