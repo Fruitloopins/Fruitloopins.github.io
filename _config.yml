@@ -13,3 +13,12 @@ author:
   name: Fruitloopins
   bio: idk
   location: Earth
+
+footer:
+  links:
+    - label: Discord
+      icon: fab fa-discord
+      url: https://discord.gg/ey6ZvnwAJp
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/Fruitloopins
