@@ -15,12 +15,6 @@ defaults:
     values:
       author_profile: true
       read_time: true
-      
-main:
-  - title: "Home"
-    url: /
-  - title: "Plunkten"
-    url: /plunkten/
 
 author:
   name: "Fruitloopins"
