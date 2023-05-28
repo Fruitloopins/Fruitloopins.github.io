@@ -2,4 +2,4 @@ remote-theme: minimal-mistakes-jekyll
 title: Fruitloopins
 description: Fruitloopins
 include: ["_pages"]
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "neon"
