@@ -9,6 +9,14 @@ minimal_mistakes_skin: "neon"
 
 include: ["_pages", "_posts"]
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+
 author:
   name: "Fruitloopins"
   location: "Earth"
@@ -21,11 +29,3 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Fruitloopins"
-
-defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      author_profile: true
-      read_time: true
