@@ -1,24 +1,23 @@
-name: Fruitloopins
-description: Fruitloopins' stuff
+name: "Fruitloopins"
+description: "Fruitloopins' stuff"
 
-title: Fruitloopins
-subtitle: When the fruit is loopin
+title: "Fruitloopins"
+subtitle: "When the fruit is loopin"
 
-remote-theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: neon
+remote-theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "neon"
 
 include: ["_pages"]
 
 author:
-  name: Fruitloopins
-  bio: idk
-  location: Earth
+  name: "Fruitloopins"
+  location: "Earth"
 
 footer:
   links:
-    - label: Discord
-      icon: fab fa-discord
-      url: https://discord.gg/ey6ZvnwAJp
-    - label: GitHub
-      icon: fab fa-fw fa-github
-      url: https://github.com/Fruitloopins
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://discord.gg/ey6ZvnwAJp"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Fruitloopins"
