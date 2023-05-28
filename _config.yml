@@ -1,4 +1,4 @@
-remote-theme: minimal-mistakes-jekyll
+remote-theme: "mmistakes/minimal-mistakes"
 title: Fruitloopins
 description: Fruitloopins
 include: ["_pages"]
