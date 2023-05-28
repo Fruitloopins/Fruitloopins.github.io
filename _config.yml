@@ -1,5 +1,5 @@
-remote-theme: "mmistakes/minimal-mistakes"
+remote-theme: mmistakes/minimal-mistakes
 title: Fruitloopins
 description: Fruitloopins
 include: ["_pages"]
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: neon
