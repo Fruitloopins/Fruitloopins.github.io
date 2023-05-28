@@ -5,7 +5,6 @@ title: "Fruitloopins"
 subtitle: "When the fruit is loopin"
 
 remote-theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon"
 
 include: ["_pages", "_posts"]
 
@@ -16,6 +15,12 @@ defaults:
     values:
       author_profile: true
       read_time: true
+      
+main:
+  - title: "Home"
+    url: /
+  - title: "Plunkten"
+    url: /plunkten/
 
 author:
   name: "Fruitloopins"
