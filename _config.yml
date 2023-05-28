@@ -1,5 +1,10 @@
-remote-theme: mmistakes/minimal-mistakes
+name: Fruitloopins
+description: Fruitloopins' stuff
+
 title: Fruitloopins
-description: Fruitloopins
-include: ["_pages"]
+subtitle: When the fruit is loopin
+
+remote-theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: neon
+
+include: ["_pages"]
