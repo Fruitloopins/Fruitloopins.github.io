@@ -1,4 +1,5 @@
 Last Updated: 2023-05-13
+
 Official terms of service for the Plunkten Discord bot.
 
 The below terms will be used throughout the terms of service and privacy policy on this page:
