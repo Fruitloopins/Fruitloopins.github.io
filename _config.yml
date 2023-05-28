@@ -1,3 +1,4 @@
 remote-theme: minimal-mistakes-jekyll
 title: Fruitloopins
-description: Fruitloopins' GitHub pages site
+description: Fruitloopins
+include: ["_pages"]
