@@ -1,0 +1,5 @@
+---
+permalink: /
+---
+
+Stuff here soon™
