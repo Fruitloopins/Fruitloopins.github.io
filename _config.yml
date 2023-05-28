@@ -10,22 +10,14 @@ remote-theme: "mmistakes/minimal-mistakes"
 include: ["_pages", "_posts"]
 
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
+      layout: single
       author_profile: true
       read_time: true
-
-author:
-  name: "Fruitloopins"
-  location: "Earth"
-
-footer:
-  links:
-    - label: "Discord"
-      icon: "fab fa-discord"
-      url: "https://discord.gg/ey6ZvnwAJp"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Fruitloopins"
+      comments: true
+      share: true
+      related: true
